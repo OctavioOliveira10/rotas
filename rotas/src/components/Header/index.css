@@ -1,0 +1,13 @@
+ul{
+    background-color: rgb(46, 154, 216);
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
